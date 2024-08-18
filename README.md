@@ -1,1 +1,1 @@
-The file Bioinformatic Mini_ Project file contain the information you need to complete Our Module one project and participate in our Internship challenge!
+In this mini project, I performed a series of bioinformatics tasks using the human TNF gene as the sequence of interest. I downloaded the sequence, translated it, find the ORFs, analyzed the sequence composition, identified thetranscription factor binding sites, searched for functional motifs, predicted coding/noncoding regions, and converted sequence to a different file format.
